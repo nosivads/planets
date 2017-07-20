@@ -2,8 +2,5 @@ Cold and dry, but everything is my favorite color
 
 How is the view on Mars£¿
 
-<<<<<<< HEAD
+
 SD change
-=======
-different changes
->>>>>>> 9715ae74a833a8d9b917ed03893ce6991aaf2ba0
